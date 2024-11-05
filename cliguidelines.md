@@ -1,5 +1,8 @@
 Command Line Interface Guidelines (CLI Guidelines)
 --------------------------------------------------
+Author: Justin X. Hale, User Experience Designer (UXD)
+Last updated: October 2024
+View updates at: https://www.uxd-hub.com/entries/design/cli-guidelines
 
 Overview
 
